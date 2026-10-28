@@ -1,8 +1,32 @@
-# AegisFlow
+<p align="center">
+  <img src="./docs/assets/aegisflow-logo.png" alt="AegisFlow Logo：盾牌与工作流节点" width="280" />
+</p>
 
-**面向企业业务自动化场景的 AI Agent 与 Skills 工作流平台。**
+<h1 align="center">AegisFlow</h1>
 
-AegisFlow 让用户通过自然语言发起任务，由 Agent 完成任务规划、技能发现、工具调用和结果反馈，并提供人工审批、状态恢复、执行追踪与评测能力。
+<p align="center">
+  面向企业业务自动化场景的 AI Agent 与 Skills 工作流平台
+</p>
+
+<p align="center">
+  自然语言驱动任务 · 可复用技能 · 可控执行 · 全程追踪
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-19-149ECA?logo=react&amp;logoColor=white" alt="React 19" />
+  <img src="https://img.shields.io/badge/TypeScript-7-3178C6?logo=typescript&amp;logoColor=white" alt="TypeScript 7" />
+  <img src="https://img.shields.io/badge/Vite-8-646CFF?logo=vite&amp;logoColor=white" alt="Vite 8" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI%20%28planned%29-009688?logo=fastapi&amp;logoColor=white" alt="后端规划：FastAPI" />
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-64748B" alt="MIT License" /></a>
+</p>
+
+<p align="center">
+  <a href="#项目简介">项目简介</a> ·
+  <a href="#快速开始">快速开始</a> ·
+  <a href="#开发计划">开发计划</a>
+</p>
+
+---
 
 > **项目状态：开发中。** 前端工程已初始化，后端与 Agent 能力仍在规划阶段。
 
@@ -21,6 +45,8 @@ AegisFlow 让用户通过自然语言发起任务，由 Agent 完成任务规划
 - [许可证](#许可证)
 
 ## 项目简介
+
+AegisFlow 旨在让用户通过自然语言发起任务，由 Agent 完成任务规划、技能发现、工具调用和结果反馈，并提供人工审批、状态恢复、执行追踪与评测能力。
 
 企业业务流程往往涉及多个系统、复杂规则和需要人工确认的操作。AegisFlow 通过状态化 Agent 工作流，把自然语言任务转化为可追踪、可控制的执行步骤，并通过可复用的 Skills 接入业务能力。
 
