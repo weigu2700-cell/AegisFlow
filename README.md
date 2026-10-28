@@ -41,7 +41,7 @@ AegisFlow 让用户通过自然语言发起任务，由 Agent 完成任务规划
 | 类别 | 技术 | 说明 |
 | --- | --- | --- |
 | 框架 | React 19 | 函数组件 + Hooks，启用 React Compiler |
-| 语言 | TypeScript 6 | 严格类型检查，`tsc -b` 参与构建 |
+| 语言 | TypeScript 7 | 严格类型检查，`tsc -b` 参与构建 |
 | 构建工具 | Vite 8 | 开发服务器、HMR 与生产构建 |
 | 包管理 | pnpm | 依赖安装与锁文件管理 |
 | 代码检查 | Oxlint | 快速静态检查 |
